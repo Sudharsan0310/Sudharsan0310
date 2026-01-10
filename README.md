@@ -73,7 +73,6 @@ A full-featured blogging platform built with Django, demonstrating CRUD operatio
 - 🏷️ Tag and category organization
 - 🔍 Advanced search functionality
 - 📱 Responsive design for mobile and desktop
-- ⭐ Like/Unlike posts functionality
 - 📊 User dashboard with post analytics
 
 **Tech Stack:** Django, PostgreSQL, Bootstrap, JavaScript, HTML/CSS
