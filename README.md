@@ -158,7 +158,7 @@ A modern real-time chat application leveraging Django Channels and WebSockets fo
 - Remote or on-site positions
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/sudharsanjs)
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/sudharsanjs)
 - 📧 Email: jssudharsan7@gmail.com
 - 📱 Phone: +91-9080600642
 
